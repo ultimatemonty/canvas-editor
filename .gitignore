@@ -1,18 +1,4 @@
-# See http://help.github.com/ignore-files/ for more about ignoring files.
-
-# compiled output
-/dist
-/tmp
-
-# dependencies
-/node_modules
-/bower_components
-
-# misc
-/.sass-cache
-/connect.lock
-/coverage/*
-/libpeerconnection.log
-/.package.json.bak
-npm-debug.log
-testem.log
+jsconfig.json
+yarn-error.log
+node_modules/**
+bower_components/**
